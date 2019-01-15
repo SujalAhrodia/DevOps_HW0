@@ -11,5 +11,6 @@ Unity Id: ssujal
 * Opunit checks (20)
 ![](../master/Screenshots/Opunit_check.png)
 * Pipeline workshop (40)
+![](../master/Screenshots/Pipeline_Opunit_Checks.png)
 ![](../master/Screenshots/Pipeline_workshop.png)
 * Screencast (20)
