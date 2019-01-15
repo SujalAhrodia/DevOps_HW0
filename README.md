@@ -1,5 +1,5 @@
 # HW0-DevOps
-Devops course Spring 2019
+CSC-519 Spring 2019
 
 Name: Sujal\
 Unity Id: ssujal
