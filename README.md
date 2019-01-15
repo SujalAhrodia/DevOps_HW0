@@ -7,6 +7,7 @@ Unity Id: ssujal
 ## Completed Tasks:
 * Complete moodle, mattermost, stack overflow profiles by deadline (10).
 * Github repo and collobrator settings (10).
+![](../master/Screenshots/Collaborators.png)
 * Opunit checks (20)
 ![](../master/Screenshots/Opunit_check.png)
 * Pipeline workshop (40)
