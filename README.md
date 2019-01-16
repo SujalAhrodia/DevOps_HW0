@@ -17,14 +17,16 @@ Unity Id: ssujal
 ![](../master/Screenshots/Opunit_check.png)
 ### 4. Pipeline workshop (40)
 ---
+Note: I have attached the pipeline folder in .zip format and the scripts are mentioned below.
+
 ### Hook scripts:
-### * post-commit:
+### post-commit:
 ```shell
 #!/bin/sh
 
 open https://google.com/
 ```
-### * pre-commit:
+### pre-commit:
 ```shell
 #!/bin/bash
 
@@ -37,7 +39,7 @@ fi
 echo "Failed npm tests. Canceling 🚫 commit!"
 exit 1
 ```
-### * post-receive:
+### post-receive:
 ```shell
 #!/bin/sh
 echo "Current location: $GIT_DIR"
