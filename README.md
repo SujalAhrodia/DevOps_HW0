@@ -59,6 +59,7 @@ Note: After making changes to the message
 git push prod master
 ```
 ![](../master/Screenshots/Pipeline_workshop.png)
+![](../master/Screenshots/Message_Change.png)
 ### 5. Screencast (20)
 ---
 ![This is a link to my screencast](https://drive.google.com/open?id=1c6PBzQ9BCkprrB0fki-S4O4CqNLf8mp_)
