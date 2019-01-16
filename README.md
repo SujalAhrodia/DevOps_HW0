@@ -61,3 +61,5 @@ git push prod master
 ![](../master/Screenshots/Pipeline_workshop.png)
 ### 5. Screencast (20)
 ---
+![](https://drive.google.com/open?id=1c6PBzQ9BCkprrB0fki-S4O4CqNLf8mp_)
+
